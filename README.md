@@ -1,4 +1,4 @@
-# Cool terminal setup
+# Cool Konsole setup
 
 ![image](https://github.com/user-attachments/assets/08b720c3-22e1-4ed3-96f5-1545e5decbdc)
 
